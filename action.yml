@@ -4,5 +4,5 @@ branding:
   icon: "git-pull-request"
   color: white
 runs:
-  using: "node"
+  using: "node16"
   main: "lib/index.js"
