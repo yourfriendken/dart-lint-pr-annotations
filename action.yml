@@ -1,0 +1,8 @@
+name: Dart Lint PR Anotations
+description: "Adds comments to Pull Requests when there are lint errors"
+branding:
+  icon: "git-pull-request"
+  color: white
+runs:
+  using: "node"
+  main: "lib/index.js"

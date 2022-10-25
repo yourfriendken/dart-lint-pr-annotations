@@ -1,0 +1,23 @@
+{
+  "name": "dart-lint-pr-annotations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourfriendken/dart-lint-pr-annotations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourfriendken/dart-lint-pr-annotations/issues"
+  },
+  "homepage": "https://github.com/yourfriendken/dart-lint-pr-annotations#readme",
+  "dependencies": {
+    "@actions/github": "^5.1.1"
+  }
+}
